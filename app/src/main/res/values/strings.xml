@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dadosAplication</string>
+    <string name="roll">Roll</string>
+    <string name="hola_mundo">Hola Mundo!</string>
+    <string name="side_of_dice_2">Side of Dice 2</string>
+    <string name="side_of_dice_1">Side of Dice 1</string>
+</resources>
